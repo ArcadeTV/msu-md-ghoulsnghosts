@@ -1,0 +1,1 @@
+..\srecpatch.exe roms\GHOULS_UNTOUCHED_8M.BIN OUTPUT\GHOULS_PATCHED.BIN<srecfile.txt
